@@ -1,0 +1,38 @@
+table{
+    //border-collapse:separate;
+    border-spacing: 1vw;
+
+    //width: 30vw;
+    //height: 30vW;
+
+    border: solid 1px black;
+
+    .gameLigne{
+        td {
+            border: solid 1px black;
+            text-align: center;
+
+            width: 5vw;
+            height: 5vw;
+
+            border-radius: 100%;
+        }
+    }
+
+    .spacingLigne{
+        td{
+            height: 1vw;
+        }
+    }
+
+    .scoreLigne{
+
+        td{
+            margin-top: 5vw;
+            border: solid 1px black;
+            text-align: center;
+            height: 5vw;
+
+        }
+    }
+}

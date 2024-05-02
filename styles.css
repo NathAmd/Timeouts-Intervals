@@ -1,0 +1,20 @@
+table {
+  border-spacing: 1vw;
+  border: solid 1px black;
+}
+table .gameLigne td {
+  border: solid 1px black;
+  text-align: center;
+  width: 5vw;
+  height: 5vw;
+  border-radius: 100%;
+}
+table .spacingLigne td {
+  height: 1vw;
+}
+table .scoreLigne td {
+  margin-top: 5vw;
+  border: solid 1px black;
+  text-align: center;
+  height: 5vw;
+}/*# sourceMappingURL=styles.css.map */
